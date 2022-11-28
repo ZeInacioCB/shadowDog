@@ -6,7 +6,7 @@ const CANVAS_WIDTH = canvas.width = 600;
 const CANVAS_HEIGHT = canvas.height = 600;
 // defining animation image and his animation variables 
 const playerImage = new Image();
-playerImage.src = 'resources/images/shadow_dog.png';
+playerImage.src = '../resources/images/shadow_dog.png';
 const spriteWidth = 575; // aproximately 6876/12
 const spriteHeight = 523; // aproximately 5230/10
 // defining animation coordinates in our animatian source image

@@ -37,14 +37,14 @@ export const spriteAnimations = {
         frames: 5,
         stagger: 7
     },
-    "rolling attack": {
-        name: 'rolling attack',
+    "rolling": {
+        name: 'rolling',
         animationY: 6,
         frames: 7,
         stagger: 2
     },
-    "bite attack": {
-        name: 'bite attack',
+    "bite": {
+        name: 'bite',
         animationY: 7,
         frames: 7,
         stagger: 4
@@ -55,8 +55,8 @@ export const spriteAnimations = {
         frames: 12,
         stagger: 5
     },
-    "get hit": {
-        name: 'get hit',
+    "getHit": {
+        name: 'getHit',
         animationY: 9,
         frames: 4,
         stagger: 6
