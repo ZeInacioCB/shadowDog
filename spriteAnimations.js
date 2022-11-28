@@ -1,5 +1,4 @@
 // object containing all animations and info required for the animation
-
 export const spriteAnimations = {
     "idle": {
         name: 'idle',
